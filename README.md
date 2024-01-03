@@ -13,10 +13,10 @@ Explanation of various data types available in Dart, including integers, doubles
 **Operators in Dart:**
 Overview of operators in Dart, covering arithmetic, logical, relational, and assignment operators.
 
-4.**Strings in Dart:**
+**Strings in Dart:**
 Basics of handling strings in Dart along with essential string functions and operations.
 
-5.**Control Structures:**
+**Control Structures:**
 Understanding control structures like if-else statements for conditional logic in Dart.
 
 # Maintainer
